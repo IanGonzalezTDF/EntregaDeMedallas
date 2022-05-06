@@ -16,6 +16,5 @@ btnSend.addEventListener("click", () => {
       break;
     default:
       console.log("Entregar mención de participación");
-      break;
   }
 });
